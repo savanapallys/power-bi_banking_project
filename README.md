@@ -38,4 +38,13 @@ Different Plans for Different Lifestyles: Tailor plans for married and unmarried
 Emphasize Easy Payments: Highlight the card's ease of use, emphasizing convenience, safety, and additional features.
 Partner with IT Companies: Collaborate with IT firms for exclusive benefits, acknowledging the prominence of salaried IT professionals.
 Competitive Rates and Fees: Ensure the new credit card offers competitive rates to attract and retain users.
-Acknowledgments: A big thank you to Dhaval Patel, Hemanand Vadivel, and the Codebasics team for the incredible challenge! 🙌
+Sample Screenshots:-
+
+![bank22](https://github.com/user-attachments/assets/824a5964-7837-46d0-ab7f-500667af6904)
+![bank18](https://github.com/user-attachments/assets/f6ff917e-2ec2-4f6a-9a8f-49081d8434b7)
+![bank19](https://github.com/user-attachments/assets/77e06b50-e2e6-4aea-a91c-5bb27b5bb87d)
+![bank20](https://github.com/user-attachments/assets/e9853ade-3c97-46db-bda3-e0433e9e9789)
+![bank21](https://github.com/user-attachments/assets/440d873a-3f40-4079-9a6e-72be8583757d)
+
+
+
